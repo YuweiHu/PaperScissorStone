@@ -1,2 +1,2 @@
 # PaperScissorStone
-This is a simple game!
+This is a simple game! Developed by JS.
